@@ -1,0 +1,66 @@
+[
+    {
+        "image": "https://techcloudltd.com/wp-content/uploads/2020/06/image6.jpg",
+        "name": "Facebook Merketing",
+        "price": 5000,
+        "duration": "3 month",
+        "instructor": "Mr Zukar Berk",
+        "key":1
+    },
+    {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAE4UPaomXxOYipAGCW2fjnxNIvT29XIO8nL_sROEcI_k-ITkwWJEpN8tJrL5KFIQAmJ8&usqp=CAU",
+        "name": "SEO",
+        "price": 10000,
+        "duration": "3 month",
+        "instructor": "Mr Larry Page",
+        "key":2
+    },
+    {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7oOaOZR8_ESniycmULziD8mQ41avvhhoqyg&usqp=CAU",
+        "name": "YouTube Merketing",
+        "price": 3000,
+        "duration": "3 month",
+        "instructor": "Mr Chenchelor",
+        "key":3
+    },
+    {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI5vJDtEV_ky6fQ1ulklUdNr7a9hYWcdH6Ag&usqp=CAU",
+        "name": "Instagram Merketing",
+        "price": 2000,
+        "duration": "3 month",
+        "instructor": "Mr Digital Pratic",
+        "key":4
+    },
+    {
+        "image": "https://engineering.fb.com/wp-content/uploads/2012/09/520116_edf5_2.jpg",
+        "name": "WordPress",
+        "price": 1000,
+        "duration": "3 month",
+        "instructor": "Mr Sumit Saha",
+        "key":5
+    },
+    {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaZnz0SRN7SQA70_GE09JDJjdM4mFtvdKFZA&usqp=CAU",
+        "name": "Website Degin",
+        "price": 10000,
+        "duration": "6 month",
+        "instructor": "Mr Jankar Mahubub",
+        "key":6
+    },
+    {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9vMWavCAb6BtmhYUhuAHI-OPUjK--JfAFOw&usqp=CAU",
+        "name": "Elementor Page Builder",
+        "price": 500,
+        "duration": "1 month",
+        "instructor": "Mr Lary",
+        "key":7
+    },
+    {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnGyXsEnKyRP5ccZHiOYpQS9Ua9w9PDtDfxA&usqp=CAU",
+        "name": "English Spoken",
+        "price": 5000,
+        "duration": "3 month",
+        "instructor": "Mr Saifur sir",
+        "key":8
+    }
+]
